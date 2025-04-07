@@ -45,5 +45,5 @@ Example: Displays all employees and departments, whether or not they are matched
 
 *output of task in form of screenshot*
 
-![Image](https://github.com/user-attachments/assets/55e7f281-b345-4b88-b8f7-4fec75fa0f79)
+![Image](https://github.com/user-attachments/assets/f2954462-5d94-4bfe-a136-d7995a912e3f)
 
