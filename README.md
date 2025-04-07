@@ -43,5 +43,5 @@ Combines the results of both LEFT and RIGHT JOINs. Shows all records when there 
 
 Example: Displays all employees and departments, whether or not they are matched.
 
-*output of task in form of screenshot*
 ![Image](https://github.com/user-attachments/assets/55e7f281-b345-4b88-b8f7-4fec75fa0f79)
+*output of task in form of screenshot*
